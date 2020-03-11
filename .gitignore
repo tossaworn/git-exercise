@@ -128,8 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Ignore Exercise
+# Git Exercise
 *.exe
 *.o
 *.jar
-/libraries
+libraries/
