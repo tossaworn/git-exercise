@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore Exercise
+*.exe
+*.o
+*.jar
+/libraries
